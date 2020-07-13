@@ -6,6 +6,5 @@ if hungry== 'yes':
 else:
     print('do homework')
     print('take rest after doing work')
-
     print('call me after taking rest')
 

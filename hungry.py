@@ -1,6 +1,6 @@
 hungry= input('Are u hungry?')
 if hungry== 'yes':
-    print(' drink juice')
-    print("after eating do your homework")
+    print('eat poha and namkeen')
 else:
-    print('Do homework')
+    print('call me after taking rest')
+

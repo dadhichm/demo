@@ -1,13 +1,11 @@
 hungry= input('Are u hungry?')
 if hungry== 'yes':
-    print('Eat fruits')
-    print("after eating do your homework")
+    print('eat poha and namkeen')
+    print('eat salads and friuts')
+    print('do homework after eating')
 else:
-    print('Do homework')
-    thirsty= input('are u thirsty')
-    if thirsty=='yes':
-        print('drink juice')
-    else: print('do your work')
+    print('do homework')
+    print('take rest after doing work')
 
-    print('take rest after completing it')
+    print('call me after taking rest')
 
